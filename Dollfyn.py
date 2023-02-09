@@ -1,3 +1,8 @@
+## THIS WAS WRITTEN, COMPREHENDED BY, AND TESTED BY BUGZOOO
+## plz dont steal code
+## u can use as long as you note me
+## thank u
+
 import random
 import time
 import os
